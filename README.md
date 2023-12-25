@@ -27,7 +27,7 @@ script.js: Implements the functionality and logic of the calculator using JavaSc
 ## How to Use
 1. Clone the repository to your local machine:
 
-bash
+# bash
 Copy code
 git clone https://github.com/MdMohsinHaider/Calculator_project.git
 2. Open the index.html file in your web browser.
