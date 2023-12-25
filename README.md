@@ -7,4 +7,6 @@ done with basic knowledge of these technologies..
 
 ## License
 
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 [MIT License](LICENSE)
